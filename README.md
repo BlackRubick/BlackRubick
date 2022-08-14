@@ -1,4 +1,4 @@
-![BlackRubick](IMG/code.gif)
+ㅤㅤㅤㅤㅤㅤㅤㅤ![BlackRubick](IMG/code.gif)
 
 <h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/code.gif" alt="jijijija"></h1>
 
