@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
 
-<table alinear="right">
+
 <tr>
 <td>
 
@@ -13,10 +13,10 @@
 
 </td>
 </tr>
-</table>
 
-<detalles>
-  <summary> : zap : ¡Sobre mí!</summary>
+
+<details>
+  <summary>:zap: ¡Sobre mí!</summary>
 
 ###  💻 I am a software development student💻!!
 - 🧐 ¡I learn fast!
