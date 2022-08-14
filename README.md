@@ -1,16 +1,15 @@
-[![ Tecnología MC ](src/mctechnology_extendido.GIF)](https://www.youtube.com/c/mctechnology17)
+[![ BlackRubick](src/IMG/code.gif)]
 
-<h1 align="center">Hola, soy Cèsar - BlackRubick <img src="./src/code.gif" width="30px"></h1>
+<h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/code.gif" alt=""></h1>
 
 <tabla alinear="derecha">
 <tr>
 <td>
 
-[ <img align="left" alt="Tecnología MC | YouTube" width="22px" src="./src/youtube.png" /> ][youtube]
-[ <img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" /> ][twitter]
-[ <img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" /> ][instagram]
-[ <img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" /> ][facebook]
-[ <img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" /> ][reddit]
+
+
+[ <img align="left" alt="@cesar_gomez_aguilera | Instagram" width="22px" src="./src/instagram.png" /> ][instagram]
+
 
 </td>
 </tr>
@@ -19,34 +18,21 @@
 <detalles>
   <summary> : zap : ¡Sobre mí!</summary>
 
-###  🔬 Bioanalista Clínico y actualmente estoy estudiando un Máster en Bioinformática 💻!!
-- 🦾 ¡Me encanta el PowerLifting!
-- 🤓 actualmente estoy aprendiendo todo
-- 👾 Soy muy curiosa y por eso te pones a estudiar programación
-- 🗒 Actualmente estoy muy obsesionado con aprender vimscript
+###  💻 I am a software development student💻!!
+- 🧐 ¡I learn fast!
+- 😈 I want to specialize in cybersecurity
+- 😏 I am 20 years
+- 🇲🇽 I am from mexico
 </detalles>
 
 <br />
 
 ---
 
-<h3 align="center"><img src="./src/cabeza.GIF" width="30px" height="30px"> Últimos Proyectos</h3>
 
 <tr>
 <td>
 
-[ <img align="left" alt="gm | Git Manager" width="50px" src="./src/git_logo.png" /> ][gm]
-
-</td>
-<td> <h4 align="left"> <a href="https://github.com/mctechnology17/gm" target="_blank"><code>GitManager</code></a> </h4>
-  <detalles>
-    <summary>ver más...</summary>
-
-    Un gestor para multiplataforma GIT.
-    Compatibilidad: zsh/bash/fish/powershell y vim/vi/nvim/Gvim/MacVim
-
-  </detalles> </td>
-</tr>
 <tr>
 <td>
 
