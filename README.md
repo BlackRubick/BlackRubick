@@ -8,7 +8,12 @@
 
 
 <br>
-<img align="left" alt="@cesar_gomez_aguilera | Instagram" width="22px" src="IMG/instagram.png,https://www.instagram.com/cesar_gomez_aguilera/"/>
+[<img align="left" alt="Santiago Insane | YouTube" width="22px" src="./src/youtube.png" />][youtube]
+[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+[<img align="left" alt="@mctechnology17 | Instagram" width="22px" src="./src/instagram.png" />][instagram]
+[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+  
 <br>
 
 </td>
