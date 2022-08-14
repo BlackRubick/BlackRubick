@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
 
-<tabla alinear="derecha">
+<tabla alinear="right">
 <tr>
 <td>
 
