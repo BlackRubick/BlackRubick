@@ -103,11 +103,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mctechnology17&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![Snake animation](https://github.com/mctechnology17/mctechnology17/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/BlackRubick/BlackRubick/blob/output/github-contribution-grid-snake.svg)
 
 
-<input type="hidden" name="hosted_button_id" value="A9ZCHSS5K6SS8" />
-<input type="image" src="https://www.paypalobjects.com/en_US/DK/i/btn/btn_donateCC_LG.gif" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
+
 
 
 [instagram]: https://www.instagram.com/cesar_gomez_aguilera/
