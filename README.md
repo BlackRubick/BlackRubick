@@ -50,5 +50,5 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackRubick&layout=compact&langs_count=7&theme=radical"/>
 </div>
 
-![ Animación de serpiente ](https://github.com/mctechnology17/BlackRubick/blob/output/github-contribution-grid-snake.svg)
+![ Animación de serpiente ](https://github.com/BlackRubick/BlackRubick/blob/output/github-contribution-grid-snake.svg)
 
