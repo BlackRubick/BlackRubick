@@ -12,6 +12,7 @@
 [<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
  <a href="https://www.instagram.com/cesar_gomez_aguilera/"><img align="left" alt="@cesar_gomez_aguilera | Instagram" width="22px" src=" IMG/instagram.png" /></a>
 [<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
+ <a href="https://www.reddit.com/user/BlackRubick1"><img align="left" alt="@cesar_gomez_aguilera | Reddit" width="22px" src=" IMG/reddit.png" /></a>
 [<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
   
 <br>
