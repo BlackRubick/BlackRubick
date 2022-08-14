@@ -8,12 +8,11 @@
 
 
 <br>
-[<img align="left" alt="Santiago Insane | YouTube" width="22px" src="./src/youtube.png" />][youtube]
-[<img align="left" alt="@mctechnology17 | Twitter" width="22px" src="./src/twitter.png" />][twitter]
+  <a href="https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=RandomYT"><img align="left" alt="@cesar_gomez_aguilera | Youtube" width="22px" src=" IMG/youtube.png"/></a>
+ <a href="https://twitter.com/CesarGmezAguil1"><img align="left" alt="@cesar_gomez_aguilera | Twitter" width="22px" src=" IMG/Twitter.png" /></a>
  <a href="https://www.instagram.com/cesar_gomez_aguilera/"><img align="left" alt="@cesar_gomez_aguilera | Instagram" width="22px" src=" IMG/instagram.png" /></a>
-[<img align="left" alt="MC Technology17 | Facebook" width="22px" src="./src/facebook.png" />][facebook]
  <a href="https://www.reddit.com/user/BlackRubick1"><img align="left" alt="@cesar_gomez_aguilera | Reddit" width="22px" src=" IMG/reddit.png" /></a>
-[<img align="left" alt="@mctechnology17 | Reddit" width="22px" src="./src/reddit.png" />][reddit]
+
   
 <br>
 
