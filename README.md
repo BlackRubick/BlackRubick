@@ -1,6 +1,6 @@
 [![ BlackRubick](src/IMG/code.gif)]
 
-<h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/code.gif" alt=""></h1>
+<h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/code.gif" alt="jijijija"></h1>
 
 <tabla alinear="derecha">
 <tr>
