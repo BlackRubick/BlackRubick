@@ -2,7 +2,7 @@
 
 <h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
 
-
+<table align="right">
 <tr>
 <td>
 
@@ -13,7 +13,7 @@
 
 </td>
 </tr>
-
+</table>
 
 <details>
   <summary>:zap: ¡Sobre mí!</summary>
