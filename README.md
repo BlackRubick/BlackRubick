@@ -2,18 +2,18 @@
 
 <h1 align="center">Hola, soy Cèsar - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
 
-<tabla alinear="right">
+<table alinear="right">
 <tr>
 <td>
 
 
 <br>
-[ <img align="left" alt="@cesar_gomez_aguilera | Instagram" width="22px" src="IMG/instagram.png" /> ][instagram]
+[<img align="left" alt="@cesar_gomez_aguilera | Instagram" width="22px" src="IMG/instagram.png" />][instagram]
 <br>
 
 </td>
 </tr>
-</tabla>
+</table>
 
 <detalles>
   <summary> : zap : ¡Sobre mí!</summary>
