@@ -8,7 +8,7 @@
 
 
 <br>
-[<img align="left" alt="@cesar_gomez_aguilera| Instagram" width="22px" src="IMG/instagram.png" />]
+<img align="left" alt="@cesar_gomez_aguilera| Instagram" width="22px" src="IMG/instagram.png" />
 <br>
 
 </td>
