@@ -32,22 +32,15 @@
 
 <br />
 
----
 
 
-<tr>
-<td>
 
 <tr>
 <td>
 
----
+<tr>
+<td>
 
-
----
-
-
----
 
 <h3 align="left">Estadísticas de GitHub</h3>
 
