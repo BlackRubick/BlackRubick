@@ -1,4 +1,4 @@
-[BlackRubick](IMG/code.gif)
+
 <h1 align="center"><img src="IMG/code.gif" </h1>
 <h1 align="center">Hola, soy Cesar - BlackRubick <img src="IMG/saludo.gif" width="30px"></h1>
 
