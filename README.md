@@ -7,14 +7,7 @@
 <td>
 
 
-<br>
-  <a href="https://www.youtube.com/watch?v=hPr-Yc92qaY&ab_channel=RandomYT"><img align="left" alt="@cesar_gomez_aguilera | Youtube" width="22px" src=" IMG/youtube.png"/></a>
- <a href="https://twitter.com/CesarGmezAguil1"><img align="left" alt="@cesar_gomez_aguilera | Twitter" width="22px" src=" IMG/Twitter.png" /></a>
- <a href="https://www.instagram.com/blackrubick14/"><img align="left" alt="@blackrubick14 | Instagram" width="22px" src=" IMG/instagram.png" /></a>
- <a href="https://www.reddit.com/user/BlackRubick1"><img align="left" alt="@cesar_gomez_aguilera | Reddit" width="22px" src=" IMG/reddit.png" /></a>
 
-  
-<br>
 
 </td>
 </tr>
