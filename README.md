@@ -20,7 +20,7 @@
 - :trophy: Winner of two hackathons: 2023 Blockchain Hackathon & 2022 Innovation Hackathon
 - :technologist: **Currently working on Frontend Development & Cybersecurity.
 <!--- :boom: You can visit [MY WEBSITE](https://eliochiu.github.io) for some frontend knowledge
-- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)]-->(mailto:eliochiu2@gmail.com)
+- :email: Feel free to **reach me out** [![Send me Email](https://img.shields.io/static/v1?label=email&amp;message=ElioChiu&amp;color=EA4335&amp;style=flat-square)]-->
 - :nerd_face: Always believe "Success is built on determination and passion."
 
 <br>
