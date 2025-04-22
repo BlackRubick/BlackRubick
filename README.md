@@ -1,10 +1,10 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=BlackRubick&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Frontend%20Developer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Cesar%20Gomez%20Aguilera&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20FullStack%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
   
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=Passionate+Software+Engineer+💻;Frontend+Developer+⚡;Cybersecurity+Enthusiast+🔐;Hackathon+Champion+🏆)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=27&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=600&lines=FullStack+Software+Developer+💻;Cybersecurity+Specialist+🔐;Hackathon+Champion+🏆;Passion+for+Learning+📚)](https://git.io/typing-svg)
   
 </div>
 
@@ -23,40 +23,44 @@
 
 <br>
 
-<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="400px" alt="Coding">
+<img align="right" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="350px" alt="Coding">
 
-### 🚀 About Me
+### 👨‍💻 About Me
 
 <details>
 <summary><b>Click to expand!</b></summary>
 <br>
 
 ```javascript
-const blackRubick = {
-    name: "BlackRubick",
-    role: "Software Engineer",
-    education: "Engineering in Software Development",
-    specialization: ["Frontend Development", "Cybersecurity"],
+const cesarGomez = {
+    role: "FullStack Software Developer",
+    location: "Sta Oriente Norte 260 Col.Copoya 29100",
+    contact: {
+        phone: "+52 962-117-8686",
+        email: "BlackRubick14@gmail.com",
+        github: "github.com/BlackRubick"
+    },
+    expertise: ["Security Informatics", "Data Structures & Algorithms"],
+    currentProjects: ["Web Development", "Mobile Apps", "API Integration"],
     achievements: {
         hackathons: ["🏆 2023 Blockchain Hackathon Winner", 
                      "🏆 2022 Innovation Hackathon Winner"],
-        philosophy: "Success is built on determination and passion"
-    },
-    currentFocus: "Building secure and scalable web applications",
-    funFact: "I turn coffee into code ☕"
+        education: "Software Engineering at Universidad Politecnica de Chiapas"
+    }
 };
 ```
 </details>
 
 <br>
 
-### 💼 What I Do
+### 🎯 Areas of Expertise
 
-- 🎓 **Software Engineer** specializing in Frontend & Cybersecurity
-- 🏆 **Two-time Hackathon Winner** (Blockchain & Innovation)
-- 💻 **Currently Working On** Frontend solutions & Security systems
-- 🌱 **Always Learning** New technologies & frameworks
-- 💡 **Philosophy** _"Success is built on determination and passion."_
+- 🔒 **Security Informatics** - Implementation of robust security strategies
+- 📊 **Data Structures & Algorithms** - Optimization and efficiency in data management
+- 🌐 **Web Development** - Creation of responsive applications (HTML, CSS, JS, Node.js)
+- 📱 **Mobile Development** - Android solutions using modern technologies
+- 🗄️ **Database Management** - Experience with SQL and NoSQL systems
+- 🛠️ **Software/Hardware** - Technical incident resolution
 
 <br>
 
@@ -66,34 +70,50 @@ const blackRubick = {
 
 <br>
 
+### 💼 Professional Experience
+
+<details>
+<summary><b>Click to view my work history</b></summary>
+<br>
+
+| Position | Company | Duration | Highlights |
+|----------|---------|----------|------------|
+| **FullStack Developer** | Delichi (E-commerce de Comida) | 2020-2022 | • React + JavaScript interface development<br>• Web integration with Avanza24.js<br>• Backend with SpringBoot & JWT<br>• AWS deployment |
+| **FullStack Developer** | SneakerStore (E-commerce de Sneakers) | 2020-2022 | • HTML + CSS + JavaScript frontend<br>• Web & mobile interfaces<br>• SpringBoot backend with JWT<br>• AWS deployment |
+| **Cybersecurity Intern** | Inmuebles | 2020-2022 | • Vulnerability detection in RM server<br>• ISO 27001 compliance documentation<br>• Security solutions implementation |
+
+</details>
+
+<br>
+
 ### 🛠️ Tech Stack
 
 <div align="center">
   
-#### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![Shell Script](https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
-
 #### Frontend Development
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![npm](https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 
-#### Tools & Software
+#### Backend Development
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+
+#### Database & DevOps
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=amazon-dynamodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-47A141?style=for-the-badge&logo=LaTeX&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
-![OpenSSL](https://img.shields.io/badge/OpenSSL-721412?style=for-the-badge&logo=openssl&logoColor=white)
-
-#### Development Environment
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white)
+![GitKraken](https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=gitkraken&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
 #### Operating Systems
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
@@ -107,6 +127,19 @@ const blackRubick = {
 
 <div align="center">
   <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+<br>
+
+### 🌐 Languages
+
+<div align="center">
+  
+| Language | Proficiency |
+|----------|------------|
+| 🇲🇽 Spanish | Native |
+| 🇺🇸 English | Professional |
+
 </div>
 
 <br>
@@ -126,7 +159,7 @@ const blackRubick = {
 
 <br>
 
-### 🏆 GitHub Trophies
+### 🏆 Achievements & Trophies
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=BlackRubick&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&margin-h=4&column=8" alt="Trophies"/>
@@ -154,17 +187,33 @@ const blackRubick = {
 
 <br>
 
+### 💪 Skills & Competencies
+
+<div align="center">
+  
+| Skill | Level |
+|-------|-------|
+| 🤝 Teamwork | ████████████ |
+| 📚 Self-learning | ████████████ |
+| 🎨 UI/UX Design | █████████░░░ |
+| 🔍 Problem Solving | ███████████░ |
+| 💬 Communication | ████████████ |
+
+</div>
+
+<br>
+
 ### 🤝 Connect with Me
 
 <div align="center">
   <a href="https://github.com/BlackRubick">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:BlackRubick14@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio"/>
+  <a href="tel:+529621178686">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
 </div>
 
@@ -183,5 +232,5 @@ const blackRubick = {
 ---
 
 <div align="center">
-  <sub>🎯 "Success is built on determination and passion." - BlackRubick</sub>
+  <sub>🎯 "Success is built on determination and passion." - Cesar Gomez</sub>
 </div>
