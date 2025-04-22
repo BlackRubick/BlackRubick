@@ -1,5 +1,5 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=Cesar%20Gomez%20Aguilera&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20FullStack%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,18,24,30&height=200&section=header&text=BlackRubick&fontSize=80&animation=fadeIn&fontAlignY=38&desc=Software%20Developer%20%7C%20FullStack%20Engineer%20%7C%20Cybersecurity%20Enthusiast&descAlignY=55&descAlign=50" />
 </div>
 
 <div align="center">
@@ -80,7 +80,7 @@ const cesarGomez = {
 |----------|---------|----------|------------|
 | **FullStack Developer** | Delichi (E-commerce de Comida) | 2020-2022 | • React + JavaScript interface development<br>• Web integration with Avanza24.js<br>• Backend with SpringBoot & JWT<br>• AWS deployment |
 | **FullStack Developer** | SneakerStore (E-commerce de Sneakers) | 2020-2022 | • HTML + CSS + JavaScript frontend<br>• Web & mobile interfaces<br>• SpringBoot backend with JWT<br>• AWS deployment |
-| **Cybersecurity Intern** | Inmuebles | 2020-2022 | • Vulnerability detection in RM server<br>• ISO 27001 compliance documentation<br>• Security solutions implementation |
+| **Cybersecurity Intern ** | Ihnmuebles | 2020-2022 | • Vulnerability detection in RM server<br>• ISO 27001 compliance documentation<br>• Security solutions implementation |
 
 </details>
 
@@ -138,7 +138,7 @@ const cesarGomez = {
 | Language | Proficiency |
 |----------|------------|
 | 🇲🇽 Spanish | Native |
-| 🇺🇸 English | Professional |
+| 🇺🇸 English | I have intermediate knowledge of English|
 
 </div>
 
