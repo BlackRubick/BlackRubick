@@ -1,228 +1,76 @@
 <div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=260&color=0:0D1117,25:1F6FEB,50:70A5FD,75:58A6FF,100:0D1117&text=BLACKRUBICK&fontColor=ffffff&fontSize=72&fontAlignY=35&desc=Full%20Stack%20Engineer%20•%20Cybersecurity%20•%20Systems%20Architect&descAlignY=55&animation=fadeIn"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0D1117,100:1F6FEB&text=BLACKRUBICK&fontColor=ffffff&fontSize=70&fontAlignY=35&desc=Full%20Stack%20Engineer%20%7C%20Cybersecurity%20Specialist&descAlignY=55&animation=fadeIn"/>
 </div>
 
 <div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=70A5FD&center=true&vCenter=true&width=850&lines=I+build+real+systems;Security+comes+first;Backend+Engineer+%7C+Infrastructure+Builder;Code.+Break.+Secure.+Repeat.)](https://git.io/typing-svg)
-
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=700&lines=Scalable+Architectures;Security+by+Design;Full+Stack+Development" />
 </div>
 
-<div align="center">
-
-<a href="https://github.com/BlackRubick">
-  <img src="https://img.shields.io/github/followers/BlackRubick?label=Followers&style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117&color=70A5FD"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=BlackRubick&style=for-the-badge&label=Profile+Views&labelColor=0D1117&color=70A5FD"/>
-
-</div>
+<p align="center">
+  <img src="https://img.shields.io/github/followers/BlackRubick?style=flat-square&logo=github&labelColor=161b22&color=1f6feb"/> 
+  <img src="https://komarev.com/ghpvc/?username=BlackRubick&style=flat-square&labelColor=161b22&color=1f6feb&label=PROFILE+VIEWS"/>
+</p>
 
 ---
 
-# ⚡ About Me
+### Core Competencies
 
-```ts
-class BlackRubick {
-  name = "Cesar Gomez";
-  
-  role = "Full Stack Engineer";
+**Systems & Architecture**  
+Focused on building high-availability backend systems and robust infrastructure. I bridge the gap between complex software engineering and proactive security measures.
 
-  languages = [
-    "JavaScript",
-    "TypeScript",
-    "Python",
-    "SQL"
-  ];
-
-  specialization = [
-    "Backend Architecture",
-    "Cybersecurity",
-    "Scalable Systems",
-    "Automation"
-  ];
-
-  technologies = {
-    frontend: [
-      "React",
-      "Next.js",
-      "TailwindCSS"
-    ],
-
-    backend: [
-      "Node.js",
-      "FastAPI",
-      "Express"
-    ],
-
-    databases: [
-      "MySQL",
-      "MongoDB"
-    ],
-
-    devops: [
-      "Docker",
-      "AWS",
-      "Linux",
-      "GitHub Actions"
-    ]
-  };
-
-  currentFocus = [
-    "Distributed Systems",
-    "Security Engineering",
-    "Cloud Infrastructure"
-  ];
-
-  motto() {
-    return "If it only works locally, it's unfinished.";
-  }
-}
-```
+**Technical Focus**  
+*   **Backend:** Node.js, FastAPI, Python
+*   **Frontend:** React, Next.js, TypeScript
+*   **Infrastructure:** AWS, Docker, Linux
+*   **Security:** Social Engineering Analysis, MFA Security, System Hardening
 
 ---
 
-# 🛠 Tech Stack
+### Tech Stack
 
 <div align="center">
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,ts,js,python,fastapi,express,mysql,mongodb,aws,docker,linux,git,github,vscode,tailwind&perline=6"/>
-
+  <img src="https://skillicons.dev/icons?i=ts,js,python,nodejs,react,nextjs,fastapi,mysql,mongodb,docker,aws,linux,git&theme=dark" />
 </div>
 
 ---
 
-# 📈 GitHub Analytics
+### Development Metrics
 
 <div align="center">
+  <table border="0">
+    <tr>
+      <td>
+        <img height="165" src="https://github-readme-stats.vercel.app/api?username=BlackRubick&show_icons=true&theme=transparent&hide_border=true&title_color=70A5FD&icon_color=1F6FEB&text_color=ffffff&bg_color=0D1117" />
+      </td>
+      <td>
+        <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackRubick&layout=compact&theme=transparent&hide_border=true&title_color=70A5FD&text_color=ffffff&bg_color=0D1117" />
+      </td>
+    </tr>
+  </table>
+</div>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BlackRubick&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BlackRubick&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117"/>
-
+<div align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=BlackRubick&theme=react-dark&hide_border=true&bg_color=0D1117&color=1F6FEB" />
 </div>
 
 ---
 
-# 🔥 GitHub Streak
+### Contact & Collaboration
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=BlackRubick&theme=tokyonight&hide_border=true&background=0D1117"/>
-
+  <a href="mailto:tuemail@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=1F6FEB&border=1F6FEB"/>
+  </a>
+  <a href="https://linkedin.com">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=1F6FEB"/>
+  </a>
+  <a href="https://github.com/BlackRubick">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=1F6FEB"/>
+  </a>
 </div>
 
----
-
-# 🏆 Achievements
+<br />
 
 <div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BlackRubick&theme=algolia&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BlackRubick&theme=tokyo-night&hide_border=true&bg_color=0D1117)](https://github.com/Ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/BlackRubick/BlackRubick/output/github-contribution-grid-snake-dark.svg"/>
-
-</div>
-
----
-
-# 💻 Terminal
-
-```bash
-> whoami
-BlackRubick
-
-> role
-Full Stack Engineer
-
-> specialization
-Backend Engineering
-Cybersecurity
-Infrastructure
-Automation
-
-> current_status
-Building scalable systems...
-
-> philosophy
-"Security is not optional."
-```
-
----
-
-# 🚀 Current Focus
-
-```yaml
-Backend Systems:
-  - REST APIs
-  - Authentication Systems
-  - Real-Time Infrastructure
-
-Cybersecurity:
-  - Secure Architectures
-  - API Protection
-  - Server Hardening
-
-Cloud:
-  - AWS
-  - Docker
-  - CI/CD Pipelines
-```
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/BlackRubick">
-  <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://linkedin.com">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:youremail@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# ⚡ Fun Fact
-
-```txt
-I don't just write code.
-
-I build systems that survive production.
-```
-
----
-
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&color=0:0D1117,50:1F6FEB,100:70A5FD&height=140"/>
-
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&section=footer&height=80&color=0:0D1117,100:1F6FEB"/>
 </div>
